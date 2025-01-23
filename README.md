@@ -1,2 +1,0 @@
-# www.taylorlaminsurance.com
-Compliance 
