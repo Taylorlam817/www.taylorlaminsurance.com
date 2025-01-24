@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 2rem;
+            color: #333;
+        }
+        header {
+            background-color: #0056a6;
+            color: white;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        footer {
+            margin-top: 2rem;
+            font-size: 0.9rem;
+            text-align: center;
+        }
+        a {
+            color: #0056a6;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Terms of Service</h1>
+    </header>
+    <main>
+        <p>Welcome to Taylor Lam Insurance Agency. By using our services, you agree to the following terms and conditions. Please read them carefully.</p>
+
+        <h2>Types of Messages</h2>
+        <p>By opting into our SMS communications, you agree to receive the following types of messages:</p>
+        <ul>
+            <li>Important updates regarding your insurance policies.</li>
+            <li>Reminders about upcoming payments or policy renewals.</li>
+            <li>Notifications about new services, discounts, or changes in coverage.</li>
+        </ul>
+
+        <h2>Messaging Disclosures</h2>
+        <ul>
+            <li>Messaging frequency may vary.</li>
+            <li>Message and data rates may apply.</li>
+            <li>You can opt out at any time by texting "STOP."</li>
+            <li>For assistance, text "HELP" or contact us directly at <a href="mailto:hlam@farmersagent.com">hlam@farmersagent.com</a> or (817) 200-6397.</li>
+        </ul>
+
+        <h2>Consent and Opt-Out</h2>
+        <p>By providing your phone number and opting into our SMS service, you consent to receive text messages from Taylor Lam Insurance Agency. You can opt out at any time by texting "STOP." If you need help, text "HELP" or contact us directly.</p>
+
+        <h2>Contact Us</h2>
+        <p>If you have any questions or concerns about these terms, please contact us at:</p>
+        <address>
+            Taylor Lam Insurance Agency<br>
+            8008 Camp Bowie West #101<br>
+            Fort Worth, TX 76116<br>
+            Phone: (817) 200-6397<br>
+            Email: <a href="mailto:hlam@farmersagent.com">hlam@farmersagent.com</a>
+        </address>
+    </main>
+    <footer>
+        <p>&copy; 2025 Taylor Lam Insurance Agency. All rights reserved.</p>
+    </footer>
+</body>
+</html>
